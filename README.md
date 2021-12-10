@@ -6,7 +6,7 @@ This is a collection of customized scripts used for image analysis, simulation, 
 
 | Figures | Script used | Description |
 |---------|-------------|-------------|
-|1E, 1F, 2B, 4F, 5E, 7E, 7H, & S3A| (A) MW1 & MW2 (B) MW3 &Mw4 (C) MW5  (D) MW6| (A) Preprocessing of images for creation of kymograph (B) Analyses of CMZ wave features  (C) Data organization (D) Statistical analysis|
+|1E, 1F, 2B, 4F, 5E, 7E, 7H, & S3A| (A) MW1 & MW2 (B) MW3 & MW4 (C) MW5  (D) MW6| (A) Preprocessing of images for creation of kymograph (B) Analyses of CMZ wave features  (C) Data organization (D) Statistical analysis|
 |2F-2H| (A) MW6 (B) MW7|(A) Image preprocessing for tailfin thickness and stump analyses (B) Main script for tailfin and stump analyses|
 |2I and 4B| (A) MW9 & MW10 (B) MW11 (C) MW12 & MW13|(A) Image preprocessing scripts for internuclear spacing analysis (B) Code for nuclei segmentation (C) Main scripts for internuclear spacing analysis|
 |2J|MW14|Measurement of inter-ray width|
