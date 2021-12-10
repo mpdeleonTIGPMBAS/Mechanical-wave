@@ -13,4 +13,4 @@ This is a collection of customized scripts used for image analysis, simulation, 
 |3E, 4A, 5B, S2A, S3D, & S3E| (A) MW15 (B) MW16 (C) MW17|(A) Main code for simulation (B) Code for simulating specific condition (C) Code for plotting the simulation kymograph|
 |4D| MW18| Script for image preprocessing and kymograph generation for laser-assisted incision|
 |6B, 6C, 7B, & 7G| (A) MW19 (B) MW20|(A) Script for preprocessing image for ROS level measurement (B) Script for ROI selection and ROS measurement|
-|7H, S2D, & S2E| Script for extracting velocities from PIVlab analysis| MW21|
+|7H, S2D, & S2E| MW21| Script for extracting velocities from PIVlab analysis|
