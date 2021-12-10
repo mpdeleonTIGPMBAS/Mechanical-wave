@@ -6,3 +6,4 @@ This is a collection of customized scripts used for image analysis, simulation, 
 
 |Figures | Description | Script used|
 |--------|-------------|------------|
+|1E, 1F, 2B, 4F, 5E, 7E, 7H, & S3A|
